@@ -1,0 +1,25 @@
+You don't have to learn everything, much more important to remember what is possible to do with HTML and where stored the information how to do it.
+
+Tasks:
+0. Download Visual Code Studio. This is IDE where you have to complete your tasks.
+
+1. Read about HTML - https://www.w3schools.com/html/default.asp next chapters:
+- HTML5 Tutorial (required)
+- HTML Forms (required)
+- HTML5 (required)
+- HTML Graphics (optional)
+- HTML Media (only if you have a lot of time)
+- HTML APIs (only if you have a lot of time)
+
+2. Complete all 89 exercises - https://www.w3schools.com/html/html_exercises.asp
+Each exercise must be stored in git as an independent file in related folder.
+See the file example for the exercise - /html-attributes/exercise-1.html
+In 'html-attributes' folder you should have 5 exercise files, in 'html-heading' 4 exercise files and so on.
+Don't use spaces in files' or folders' name.
+Always add an exercise text before the html as it is in the example (/html-attributes/exercise-1.html).
+
+3. Complete the Quiz - https://www.w3schools.com/html/html_quiz.asp
+And add to repository the screen with the result.
+
+
+
